@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Abeerburman/Leetcode-solved-questions/tree/master/0002-add-two-numbers) |
+| [0007-reverse-integer](https://github.com/Abeerburman/Leetcode-solved-questions/tree/master/0007-reverse-integer) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Abeerburman/Leetcode-solved-questions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 ## Dynamic Programming
 |  |
