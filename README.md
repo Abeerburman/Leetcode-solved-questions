@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Abeerburman/Leetcode-solved-questions/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/Abeerburman/Leetcode-solved-questions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0014-longest-common-prefix](https://github.com/Abeerburman/Leetcode-solved-questions/tree/master/0014-longest-common-prefix) |
+| [0015-3sum](https://github.com/Abeerburman/Leetcode-solved-questions/tree/master/0015-3sum) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Abeerburman/Leetcode-solved-questions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Abeerburman/Leetcode-solved-questions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 ## Math
@@ -74,8 +75,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Abeerburman/Leetcode-solved-questions/tree/master/0005-longest-palindromic-substring) |
+| [0015-3sum](https://github.com/Abeerburman/Leetcode-solved-questions/tree/master/0015-3sum) |
 ## Trie
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Abeerburman/Leetcode-solved-questions/tree/master/0014-longest-common-prefix) |
+## Sorting
+|  |
+| ------- |
+| [0015-3sum](https://github.com/Abeerburman/Leetcode-solved-questions/tree/master/0015-3sum) |
 <!---LeetCode Topics End-->
