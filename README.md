@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/Abeerburman/Leetcode-solved-questions/tree/master/0018-4sum) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Abeerburman/Leetcode-solved-questions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Abeerburman/Leetcode-solved-questions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Abeerburman/Leetcode-solved-questions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Math
 |  |
 | ------- |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/Abeerburman/Leetcode-solved-questions/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Abeerburman/Leetcode-solved-questions/tree/master/0013-roman-to-integer) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Abeerburman/Leetcode-solved-questions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Abeerburman/Leetcode-solved-questions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -33,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Abeerburman/Leetcode-solved-questions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Abeerburman/Leetcode-solved-questions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Binary Search
 |  |
 | ------- |
@@ -87,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/Abeerburman/Leetcode-solved-questions/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Abeerburman/Leetcode-solved-questions/tree/master/0018-4sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Abeerburman/Leetcode-solved-questions/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Abeerburman/Leetcode-solved-questions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Trie
 |  |
 | ------- |
@@ -97,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Abeerburman/Leetcode-solved-questions/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Abeerburman/Leetcode-solved-questions/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Abeerburman/Leetcode-solved-questions/tree/master/0018-4sum) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Abeerburman/Leetcode-solved-questions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Backtracking
 |  |
 | ------- |
@@ -105,4 +110,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Abeerburman/Leetcode-solved-questions/tree/master/0020-valid-parentheses) |
+## Simulation
+|  |
+| ------- |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Abeerburman/Leetcode-solved-questions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 <!---LeetCode Topics End-->
