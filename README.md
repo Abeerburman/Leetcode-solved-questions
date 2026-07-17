@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/Abeerburman/Leetcode-solved-questions/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/Abeerburman/Leetcode-solved-questions/tree/master/0036-valid-sudoku) |
 | [0039-combination-sum](https://github.com/Abeerburman/Leetcode-solved-questions/tree/master/0039-combination-sum) |
+| [0040-combination-sum-ii](https://github.com/Abeerburman/Leetcode-solved-questions/tree/master/0040-combination-sum-ii) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Abeerburman/Leetcode-solved-questions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Abeerburman/Leetcode-solved-questions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Math
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Abeerburman/Leetcode-solved-questions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/Abeerburman/Leetcode-solved-questions/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/Abeerburman/Leetcode-solved-questions/tree/master/0039-combination-sum) |
+| [0040-combination-sum-ii](https://github.com/Abeerburman/Leetcode-solved-questions/tree/master/0040-combination-sum-ii) |
 ## Stack
 |  |
 | ------- |
