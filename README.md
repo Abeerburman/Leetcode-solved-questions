@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/Abeerburman/Leetcode-solved-questions/tree/master/0036-valid-sudoku) |
 | [0039-combination-sum](https://github.com/Abeerburman/Leetcode-solved-questions/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Abeerburman/Leetcode-solved-questions/tree/master/0040-combination-sum-ii) |
+| [0041-first-missing-positive](https://github.com/Abeerburman/Leetcode-solved-questions/tree/master/0041-first-missing-positive) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Abeerburman/Leetcode-solved-questions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Abeerburman/Leetcode-solved-questions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Math
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Abeerburman/Leetcode-solved-questions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Abeerburman/Leetcode-solved-questions/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0036-valid-sudoku](https://github.com/Abeerburman/Leetcode-solved-questions/tree/master/0036-valid-sudoku) |
+| [0041-first-missing-positive](https://github.com/Abeerburman/Leetcode-solved-questions/tree/master/0041-first-missing-positive) |
 ## Linked List
 |  |
 | ------- |
