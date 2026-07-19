@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/Abeerburman/Leetcode-solved-questions/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Abeerburman/Leetcode-solved-questions/tree/master/0040-combination-sum-ii) |
 | [0041-first-missing-positive](https://github.com/Abeerburman/Leetcode-solved-questions/tree/master/0041-first-missing-positive) |
+| [2940-find-building-where-alice-and-bob-can-meet](https://github.com/Abeerburman/Leetcode-solved-questions/tree/master/2940-find-building-where-alice-and-bob-can-meet) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Abeerburman/Leetcode-solved-questions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Abeerburman/Leetcode-solved-questions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Math
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/Abeerburman/Leetcode-solved-questions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Abeerburman/Leetcode-solved-questions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Abeerburman/Leetcode-solved-questions/tree/master/0035-search-insert-position) |
+| [2940-find-building-where-alice-and-bob-can-meet](https://github.com/Abeerburman/Leetcode-solved-questions/tree/master/2940-find-building-where-alice-and-bob-can-meet) |
 ## Hash Table
 |  |
 | ------- |
@@ -147,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Abeerburman/Leetcode-solved-questions/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Abeerburman/Leetcode-solved-questions/tree/master/0032-longest-valid-parentheses) |
+| [2940-find-building-where-alice-and-bob-can-meet](https://github.com/Abeerburman/Leetcode-solved-questions/tree/master/2940-find-building-where-alice-and-bob-can-meet) |
 ## Simulation
 |  |
 | ------- |
@@ -155,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Abeerburman/Leetcode-solved-questions/tree/master/0023-merge-k-sorted-lists) |
+| [2940-find-building-where-alice-and-bob-can-meet](https://github.com/Abeerburman/Leetcode-solved-questions/tree/master/2940-find-building-where-alice-and-bob-can-meet) |
 ## Merge Sort
 |  |
 | ------- |
@@ -171,4 +175,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/Abeerburman/Leetcode-solved-questions/tree/master/0036-valid-sudoku) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [2940-find-building-where-alice-and-bob-can-meet](https://github.com/Abeerburman/Leetcode-solved-questions/tree/master/2940-find-building-where-alice-and-bob-can-meet) |
+## Segment Tree
+|  |
+| ------- |
+| [2940-find-building-where-alice-and-bob-can-meet](https://github.com/Abeerburman/Leetcode-solved-questions/tree/master/2940-find-building-where-alice-and-bob-can-meet) |
+## Monotonic Stack
+|  |
+| ------- |
+| [2940-find-building-where-alice-and-bob-can-meet](https://github.com/Abeerburman/Leetcode-solved-questions/tree/master/2940-find-building-where-alice-and-bob-can-meet) |
 <!---LeetCode Topics End-->
