@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/Abeerburman/Leetcode-solved-questions/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/Abeerburman/Leetcode-solved-questions/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/Abeerburman/Leetcode-solved-questions/tree/master/0045-jump-game-ii) |
+| [1124-longest-well-performing-interval](https://github.com/Abeerburman/Leetcode-solved-questions/tree/master/1124-longest-well-performing-interval) |
 | [2940-find-building-where-alice-and-bob-can-meet](https://github.com/Abeerburman/Leetcode-solved-questions/tree/master/2940-find-building-where-alice-and-bob-can-meet) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Abeerburman/Leetcode-solved-questions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3457-eat-pizzas](https://github.com/Abeerburman/Leetcode-solved-questions/tree/master/3457-eat-pizzas) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Abeerburman/Leetcode-solved-questions/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0036-valid-sudoku](https://github.com/Abeerburman/Leetcode-solved-questions/tree/master/0036-valid-sudoku) |
 | [0041-first-missing-positive](https://github.com/Abeerburman/Leetcode-solved-questions/tree/master/0041-first-missing-positive) |
+| [1124-longest-well-performing-interval](https://github.com/Abeerburman/Leetcode-solved-questions/tree/master/1124-longest-well-performing-interval) |
 ## Linked List
 |  |
 | ------- |
@@ -164,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Abeerburman/Leetcode-solved-questions/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Abeerburman/Leetcode-solved-questions/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Abeerburman/Leetcode-solved-questions/tree/master/0042-trapping-rain-water) |
+| [1124-longest-well-performing-interval](https://github.com/Abeerburman/Leetcode-solved-questions/tree/master/1124-longest-well-performing-interval) |
 | [2940-find-building-where-alice-and-bob-can-meet](https://github.com/Abeerburman/Leetcode-solved-questions/tree/master/2940-find-building-where-alice-and-bob-can-meet) |
 ## Simulation
 |  |
@@ -203,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Abeerburman/Leetcode-solved-questions/tree/master/0042-trapping-rain-water) |
+| [1124-longest-well-performing-interval](https://github.com/Abeerburman/Leetcode-solved-questions/tree/master/1124-longest-well-performing-interval) |
 | [2940-find-building-where-alice-and-bob-can-meet](https://github.com/Abeerburman/Leetcode-solved-questions/tree/master/2940-find-building-where-alice-and-bob-can-meet) |
 ## Greedy
 |  |
@@ -214,4 +218,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3467-transform-array-by-parity](https://github.com/Abeerburman/Leetcode-solved-questions/tree/master/3467-transform-array-by-parity) |
+## Prefix Sum
+|  |
+| ------- |
+| [1124-longest-well-performing-interval](https://github.com/Abeerburman/Leetcode-solved-questions/tree/master/1124-longest-well-performing-interval) |
 <!---LeetCode Topics End-->
