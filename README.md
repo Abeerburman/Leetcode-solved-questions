@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/Abeerburman/Leetcode-solved-questions/tree/master/0045-jump-game-ii) |
 | [2940-find-building-where-alice-and-bob-can-meet](https://github.com/Abeerburman/Leetcode-solved-questions/tree/master/2940-find-building-where-alice-and-bob-can-meet) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Abeerburman/Leetcode-solved-questions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
+| [3467-transform-array-by-parity](https://github.com/Abeerburman/Leetcode-solved-questions/tree/master/3467-transform-array-by-parity) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Abeerburman/Leetcode-solved-questions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Math
 |  |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Abeerburman/Leetcode-solved-questions/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Abeerburman/Leetcode-solved-questions/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Abeerburman/Leetcode-solved-questions/tree/master/0018-4sum) |
+| [3467-transform-array-by-parity](https://github.com/Abeerburman/Leetcode-solved-questions/tree/master/3467-transform-array-by-parity) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Abeerburman/Leetcode-solved-questions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Backtracking
 |  |
@@ -205,4 +207,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0044-wildcard-matching](https://github.com/Abeerburman/Leetcode-solved-questions/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/Abeerburman/Leetcode-solved-questions/tree/master/0045-jump-game-ii) |
+## Counting
+|  |
+| ------- |
+| [3467-transform-array-by-parity](https://github.com/Abeerburman/Leetcode-solved-questions/tree/master/3467-transform-array-by-parity) |
 <!---LeetCode Topics End-->
