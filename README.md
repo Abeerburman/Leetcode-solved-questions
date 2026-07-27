@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Abeerburman/Leetcode-solved-questions/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/Abeerburman/Leetcode-solved-questions/tree/master/0029-divide-two-integers) |
 | [0043-multiply-strings](https://github.com/Abeerburman/Leetcode-solved-questions/tree/master/0043-multiply-strings) |
+| [0509-fibonacci-number](https://github.com/Abeerburman/Leetcode-solved-questions/tree/master/0509-fibonacci-number) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Abeerburman/Leetcode-solved-questions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Abeerburman/Leetcode-solved-questions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Dynamic Programming
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Abeerburman/Leetcode-solved-questions/tree/master/0042-trapping-rain-water) |
 | [0044-wildcard-matching](https://github.com/Abeerburman/Leetcode-solved-questions/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/Abeerburman/Leetcode-solved-questions/tree/master/0045-jump-game-ii) |
+| [0509-fibonacci-number](https://github.com/Abeerburman/Leetcode-solved-questions/tree/master/0509-fibonacci-number) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Abeerburman/Leetcode-solved-questions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 ## Number Theory
 |  |
@@ -97,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0024-swap-nodes-in-pairs](https://github.com/Abeerburman/Leetcode-solved-questions/tree/master/0024-swap-nodes-in-pairs) |
 | [0025-reverse-nodes-in-k-group](https://github.com/Abeerburman/Leetcode-solved-questions/tree/master/0025-reverse-nodes-in-k-group) |
 | [0044-wildcard-matching](https://github.com/Abeerburman/Leetcode-solved-questions/tree/master/0044-wildcard-matching) |
+| [0509-fibonacci-number](https://github.com/Abeerburman/Leetcode-solved-questions/tree/master/0509-fibonacci-number) |
 ## String
 |  |
 | ------- |
@@ -224,4 +227,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1124-longest-well-performing-interval](https://github.com/Abeerburman/Leetcode-solved-questions/tree/master/1124-longest-well-performing-interval) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/Abeerburman/Leetcode-solved-questions/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
