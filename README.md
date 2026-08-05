@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Abeerburman/Leetcode-solved-questions/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/Abeerburman/Leetcode-solved-questions/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/Abeerburman/Leetcode-solved-questions/tree/master/0051-n-queens) |
+| [0053-maximum-subarray](https://github.com/Abeerburman/Leetcode-solved-questions/tree/master/0053-maximum-subarray) |
 | [1124-longest-well-performing-interval](https://github.com/Abeerburman/Leetcode-solved-questions/tree/master/1124-longest-well-performing-interval) |
 | [2940-find-building-where-alice-and-bob-can-meet](https://github.com/Abeerburman/Leetcode-solved-questions/tree/master/2940-find-building-where-alice-and-bob-can-meet) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Abeerburman/Leetcode-solved-questions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Abeerburman/Leetcode-solved-questions/tree/master/0042-trapping-rain-water) |
 | [0044-wildcard-matching](https://github.com/Abeerburman/Leetcode-solved-questions/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/Abeerburman/Leetcode-solved-questions/tree/master/0045-jump-game-ii) |
+| [0053-maximum-subarray](https://github.com/Abeerburman/Leetcode-solved-questions/tree/master/0053-maximum-subarray) |
 | [0509-fibonacci-number](https://github.com/Abeerburman/Leetcode-solved-questions/tree/master/0509-fibonacci-number) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Abeerburman/Leetcode-solved-questions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 ## Number Theory
@@ -139,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Abeerburman/Leetcode-solved-questions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0023-merge-k-sorted-lists](https://github.com/Abeerburman/Leetcode-solved-questions/tree/master/0023-merge-k-sorted-lists) |
+| [0053-maximum-subarray](https://github.com/Abeerburman/Leetcode-solved-questions/tree/master/0053-maximum-subarray) |
 ## Two Pointers
 |  |
 | ------- |
