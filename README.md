@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Abeerburman/Leetcode-solved-questions/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/Abeerburman/Leetcode-solved-questions/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/Abeerburman/Leetcode-solved-questions/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/Abeerburman/Leetcode-solved-questions/tree/master/0054-spiral-matrix) |
 | [1124-longest-well-performing-interval](https://github.com/Abeerburman/Leetcode-solved-questions/tree/master/1124-longest-well-performing-interval) |
 | [2940-find-building-where-alice-and-bob-can-meet](https://github.com/Abeerburman/Leetcode-solved-questions/tree/master/2940-find-building-where-alice-and-bob-can-meet) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Abeerburman/Leetcode-solved-questions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -194,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/Abeerburman/Leetcode-solved-questions/tree/master/0043-multiply-strings) |
+| [0054-spiral-matrix](https://github.com/Abeerburman/Leetcode-solved-questions/tree/master/0054-spiral-matrix) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Abeerburman/Leetcode-solved-questions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Heap (Priority Queue)
 |  |
@@ -217,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0036-valid-sudoku](https://github.com/Abeerburman/Leetcode-solved-questions/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/Abeerburman/Leetcode-solved-questions/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/Abeerburman/Leetcode-solved-questions/tree/master/0054-spiral-matrix) |
 ## Binary Indexed Tree
 |  |
 | ------- |
