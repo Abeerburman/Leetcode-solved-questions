@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Abeerburman/Leetcode-solved-questions/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Abeerburman/Leetcode-solved-questions/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/Abeerburman/Leetcode-solved-questions/tree/master/0055-jump-game) |
+| [0056-merge-intervals](https://github.com/Abeerburman/Leetcode-solved-questions/tree/master/0056-merge-intervals) |
 | [1124-longest-well-performing-interval](https://github.com/Abeerburman/Leetcode-solved-questions/tree/master/1124-longest-well-performing-interval) |
 | [2940-find-building-where-alice-and-bob-can-meet](https://github.com/Abeerburman/Leetcode-solved-questions/tree/master/2940-find-building-where-alice-and-bob-can-meet) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Abeerburman/Leetcode-solved-questions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -171,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/Abeerburman/Leetcode-solved-questions/tree/master/0018-4sum) |
 | [0047-permutations-ii](https://github.com/Abeerburman/Leetcode-solved-questions/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/Abeerburman/Leetcode-solved-questions/tree/master/0049-group-anagrams) |
+| [0056-merge-intervals](https://github.com/Abeerburman/Leetcode-solved-questions/tree/master/0056-merge-intervals) |
 | [3457-eat-pizzas](https://github.com/Abeerburman/Leetcode-solved-questions/tree/master/3457-eat-pizzas) |
 | [3467-transform-array-by-parity](https://github.com/Abeerburman/Leetcode-solved-questions/tree/master/3467-transform-array-by-parity) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Abeerburman/Leetcode-solved-questions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -259,4 +261,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0052-n-queens-ii](https://github.com/Abeerburman/Leetcode-solved-questions/tree/master/0052-n-queens-ii) |
+## Quicksort
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/Abeerburman/Leetcode-solved-questions/tree/master/0056-merge-intervals) |
 <!---LeetCode Topics End-->
