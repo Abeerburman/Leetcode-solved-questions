@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/Abeerburman/Leetcode-solved-questions/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/Abeerburman/Leetcode-solved-questions/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/Abeerburman/Leetcode-solved-questions/tree/master/0050-powx-n) |
+| [0070-climbing-stairs](https://github.com/Abeerburman/Leetcode-solved-questions/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/Abeerburman/Leetcode-solved-questions/tree/master/0509-fibonacci-number) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Abeerburman/Leetcode-solved-questions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Abeerburman/Leetcode-solved-questions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/Abeerburman/Leetcode-solved-questions/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/Abeerburman/Leetcode-solved-questions/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Abeerburman/Leetcode-solved-questions/tree/master/0055-jump-game) |
+| [0070-climbing-stairs](https://github.com/Abeerburman/Leetcode-solved-questions/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/Abeerburman/Leetcode-solved-questions/tree/master/0509-fibonacci-number) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Abeerburman/Leetcode-solved-questions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 ## Number Theory
@@ -261,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Abeerburman/Leetcode-solved-questions/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/Abeerburman/Leetcode-solved-questions/tree/master/0509-fibonacci-number) |
 ## Algorithm X
 |  |
