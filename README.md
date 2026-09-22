@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/Abeerburman/Leetcode-solved-questions/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/Abeerburman/Leetcode-solved-questions/tree/master/0057-insert-interval) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Abeerburman/Leetcode-solved-questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/Abeerburman/Leetcode-solved-questions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0735-asteroid-collision](https://github.com/Abeerburman/Leetcode-solved-questions/tree/master/0735-asteroid-collision) |
 | [1124-longest-well-performing-interval](https://github.com/Abeerburman/Leetcode-solved-questions/tree/master/1124-longest-well-performing-interval) |
 | [2940-find-building-where-alice-and-bob-can-meet](https://github.com/Abeerburman/Leetcode-solved-questions/tree/master/2940-find-building-where-alice-and-bob-can-meet) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Abeerburman/Leetcode-solved-questions/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/Abeerburman/Leetcode-solved-questions/tree/master/0050-powx-n) |
 | [0070-climbing-stairs](https://github.com/Abeerburman/Leetcode-solved-questions/tree/master/0070-climbing-stairs) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/Abeerburman/Leetcode-solved-questions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0509-fibonacci-number](https://github.com/Abeerburman/Leetcode-solved-questions/tree/master/0509-fibonacci-number) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Abeerburman/Leetcode-solved-questions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Abeerburman/Leetcode-solved-questions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
