@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0057-insert-interval](https://github.com/Abeerburman/Leetcode-solved-questions/tree/master/0057-insert-interval) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Abeerburman/Leetcode-solved-questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Abeerburman/Leetcode-solved-questions/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0560-subarray-sum-equals-k](https://github.com/Abeerburman/Leetcode-solved-questions/tree/master/0560-subarray-sum-equals-k) |
 | [0735-asteroid-collision](https://github.com/Abeerburman/Leetcode-solved-questions/tree/master/0735-asteroid-collision) |
 | [1124-longest-well-performing-interval](https://github.com/Abeerburman/Leetcode-solved-questions/tree/master/1124-longest-well-performing-interval) |
 | [2940-find-building-where-alice-and-bob-can-meet](https://github.com/Abeerburman/Leetcode-solved-questions/tree/master/2940-find-building-where-alice-and-bob-can-meet) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/Abeerburman/Leetcode-solved-questions/tree/master/0036-valid-sudoku) |
 | [0041-first-missing-positive](https://github.com/Abeerburman/Leetcode-solved-questions/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/Abeerburman/Leetcode-solved-questions/tree/master/0049-group-anagrams) |
+| [0560-subarray-sum-equals-k](https://github.com/Abeerburman/Leetcode-solved-questions/tree/master/0560-subarray-sum-equals-k) |
 | [1124-longest-well-performing-interval](https://github.com/Abeerburman/Leetcode-solved-questions/tree/master/1124-longest-well-performing-interval) |
 ## Linked List
 |  |
@@ -263,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0560-subarray-sum-equals-k](https://github.com/Abeerburman/Leetcode-solved-questions/tree/master/0560-subarray-sum-equals-k) |
 | [1124-longest-well-performing-interval](https://github.com/Abeerburman/Leetcode-solved-questions/tree/master/1124-longest-well-performing-interval) |
 ## Memoization
 |  |
