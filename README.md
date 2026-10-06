@@ -277,4 +277,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/Abeerburman/Leetcode-solved-questions/tree/master/0056-merge-intervals) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Abeerburman/Leetcode-solved-questions/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
